@@ -7,6 +7,7 @@ const int fretPin2 = A3;
 
 //const float highMin = 1.60;
 //const int highMax = 2;
+// skr
 //const int lowMin = 1;
 //const float lowMax = 1.3;
 volatile byte state = HIGH;
