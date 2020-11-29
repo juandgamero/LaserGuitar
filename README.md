@@ -1,0 +1,3 @@
+# LaserGuitar
+<img src = "https://github.com/juandgamero/SDII_Website/blob/master/assets/img/ProjectPic.png" width="400" height="250">
+The “Laser Guitar” attempts to create a new innovative instrument which can be played like a guitar, where the strings are lasers. This is done using communication between two sensing systems, one which determines which note to play, called our “Fretting” system, and the other which determines when to play each note, our “Strumming” system. All detection is done by photodiodes operating in photoconductive mode so that they act as light dependent current sources. The current is run through resistors in series and a voltage divider is used to return information to the MCU.
